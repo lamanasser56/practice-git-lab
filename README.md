@@ -1,2 +1,2 @@
 #this is my first file
-im adding new lineg
+we will commit this folder to the git repositroy
